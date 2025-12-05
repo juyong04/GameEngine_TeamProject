@@ -2,8 +2,10 @@
 %TAG !u! tag:unity3d.com,2011:
 --- !u!78 &1
 TagManager:
-  serializedVersion: 2
-  tags: []
+  serializedVersion: 3
+  tags:
+  - map
+  - obstacle
   layers:
   - Default
   - TransparentFX
@@ -41,3 +43,26 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: background
+    uniqueID: 3395393859
+    locked: 0
+  - name: map
+    uniqueID: 4282542251
+    locked: 0
+  - name: building
+    uniqueID: 2195668299
+    locked: 0
+  - name: player
+    uniqueID: 3826709451
+    locked: 0
+  - name: mid ground
+    uniqueID: 3933658495
+    locked: 0
+  - name: foreground
+    uniqueID: 2550660517
+    locked: 0
+  - name: ui
+    uniqueID: 3363187947
+    locked: 0
+  m_RenderingLayers:
+  - Default
