@@ -1,7 +1,0 @@
-<<<<<<< HEAD
-m_EditorVersion: 6000.2.7f2
-m_EditorVersionWithRevision: 6000.2.7f2 (2b518236b676)
-=======
-m_EditorVersion: UnknownUnityVersion
-m_EditorVersionWithRevision: UnknownUnityVersion
->>>>>>> 652c0540023b4f6cd87f0646015532393457bcd4
